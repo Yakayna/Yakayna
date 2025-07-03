@@ -29,9 +29,7 @@ ____________
 - 2 512GB PCIe NVMe SSD.
 
 📱 Phones
-- Oppo A95 / CPH2365 (8/128GB) Black color.
-- Poco X5 Pro (Redwood) Black color.
-
+- Xiaomi 13 8/128 Unlocked Bootloader Black version. Codename: `Fuxi`
 🎧 Gears
 - Akko Arcylic 61.
 - Logitech G Pro X Superlight v1 (Thank to my friend).
