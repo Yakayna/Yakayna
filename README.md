@@ -30,6 +30,7 @@ ____________
 
 📱 Phones
 - Xiaomi 13 8/128 Unlocked Bootloader Black version. Codename: `Fuxi`
+
 🎧 Gears
 - Akko Arcylic 61.
 - Logitech G Pro X Superlight v1 (Thank to my friend).
