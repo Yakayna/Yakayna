@@ -9,12 +9,12 @@ ____________
 <details><summary>About me</summary>
 <p>
   
-- `🏫`⠀18 years old, as a **1st year Student** in [VNU - International School](http://www.is.vnu.edu.vn/en/).
+- `🏫`⠀19 years old, as a **1st year Student** in [VNU - International School](http://www.is.vnu.edu.vn/en/).
 - `💻` Noob in C++, Python, HTML.
 - `⭐`⠀I live in Nghe An, Viet Nam but **currently** in Ha Noi for education purpose.
-- `🕹` Owner of [Mika's Basement](t.me/fuminocute)
+- `🕹` Owner of xxx.?
 - `✨` Interesting in Android Engineer Reverser. In real life, Peace, Food and my precious girlfriend truely the best.
-- `🎮` I **addicted** to Blue Archive, Valorant, Osu!, Arena Of Valor and some other highly competitive games.
+- `🎮` I **addicted** to Blue Archive, Umamusume, Valorant, Osu!, Arena Of Valor and some other highly competitive games.
 
 </p>
 </details>
@@ -29,7 +29,7 @@ ____________
 - 2 512GB PCIe NVMe SSD.
 
 📱 Phones
-- Xiaomi 13 8/128 Unlocked Bootloader Black version. Codename: `Fuxi`
+- OnePlus Ace 5 12/256. Codename: `Giulia`
 
 🎧 Gears
 - Akko Arcylic 61.
