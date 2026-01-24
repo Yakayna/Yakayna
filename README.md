@@ -1,7 +1,7 @@
 ![Untitled](https://images5.alphacoders.com/131/1313641.jpg)
 ### <h4 align="center">"あははっ！ 何これ、おもしろーい☆"</h4>
-<h3 align="center">👋 Hi there, I'm NamNgoo</h3>
-<h5 align="center">I'm just a guy who want Misono Mika become real. </h5>
+<h3 align="center">👋 Hi there, I'm Yakayn</h3>
+<h5 align="center">just regular person who have skill issue. </h5>
 
 ____________
 
@@ -9,11 +9,11 @@ ____________
 <details><summary>About me</summary>
 <p>
   
-- `🏫`⠀19 years old, as a **1st year Student** in [VNU - International School](http://www.is.vnu.edu.vn/en/).
+- `🏫`⠀20 years old, as a **1st year Student** in [VNU - International School](http://www.is.vnu.edu.vn/en/).
 - `💻` Noob in C++, Python, HTML.
 - `⭐`⠀I live in Nghe An, Viet Nam but **currently** in Ha Noi for education purpose.
 - `🕹` Owner of xxx.?
-- `✨` Interesting in Android Engineer Reverser. In real life, Peace, Food and my precious girlfriend truely the best.
+- `✨` Interesting in Android Engineer Reverser. In real life, I don't want anything but "?".
 - `🎮` I **addicted** to Blue Archive, Umamusume, Valorant, Osu!, Arena Of Valor and some other highly competitive games.
 
 </p>
@@ -29,7 +29,7 @@ ____________
 - 2 512GB PCIe NVMe SSD.
 
 📱 Phones
-- OnePlus Ace 5 12/256. Codename: `Giulia`
+- OnePlus Ace 6 12/256. Codename: `KTM`
 
 🎧 Gears
 - Akko Arcylic 61.
