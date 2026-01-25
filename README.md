@@ -9,12 +9,12 @@ ____________
 <details><summary>About me</summary>
 <p>
   
-- `🏫`⠀20 years old, as a **1st year Student** in [VNU - International School](http://www.is.vnu.edu.vn/en/).
+- `🏫`⠀20 years old, as a **2nd year Student** in [VNU - International School](http://www.is.vnu.edu.vn/en/).
 - `💻` Noob in C++, Python, HTML.
 - `⭐`⠀I live in Nghe An, Viet Nam but **currently** in Ha Noi for education purpose.
 - `🕹` Owner of xxx.?
 - `✨` Interesting in Android Engineer Reverser. In real life, I don't want anything but "?".
-- `🎮` I **addicted** to Blue Archive, Umamusume, Valorant, Osu!, Arena Of Valor and some other highly competitive games.
+- `🎮` I **addicted** to Umamusume, Valorant, Osu!, Arena Of Valor and some other highly competitive games.
 
 </p>
 </details>
