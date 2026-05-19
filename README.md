@@ -24,15 +24,16 @@ ____________
 
 💻 My Laptop (Acer Aspire 7 2022 A715 43G R8GA)
 - AMD Ryzen™ 5-5625U (2.3GHz upto 4.3GHz, 16MB).
-- Samsung 8GB DDR4 buss 3200Mhz.
+- x2 Samsung 8GB DDR4 buss 3200Mhz.
 - NVIDIA® GeForce RTX™ 3050 GPU Laptop 4GB GDDR6..
-- 2 512GB PCIe NVMe SSD.
+- x2 512GB PCIe NVMe SSD.
 
 📱 Phones
-- OnePlus Ace 6 12/256. Codename: `KTM`
+- Xiaomi 15 Ultra 12/256. Codename: `xuanyuan`
 
 🎧 Gears
 - Akko Arcylic 61.
+- Aula Win 60 HE pro
 - Logitech G Pro X Superlight v1 (Thank to my friend).
 
 </p>
